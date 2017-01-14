@@ -1,0 +1,9 @@
+/* line 1, ../sass/style.scss */
+body {
+  background-color: #33691E;
+}
+
+/* line 5, ../sass/style.scss */
+canvas {
+  border: 1px solid;
+}
